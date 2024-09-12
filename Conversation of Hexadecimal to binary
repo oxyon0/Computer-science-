@@ -1,0 +1,20 @@
+Hexadecimal have base(16)
+For example (xyz)base(16)....
+  
+Note:-
+
+0–9 and the letters A–F, 
+where:
+
+A = 10
+B = 11
+C = 12
+D = 13
+E = 14
+F = 15
+
+Problem:-
+Convert A7 to Binary
+A = 1010
+7 = 0111
+A7 in binary is 1010 0111.
