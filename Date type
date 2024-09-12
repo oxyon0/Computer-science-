@@ -1,0 +1,23 @@
+Number.                                 Size
+
+Short int.                           2 byte/16 bit 
+
+Int .                                4 byte/32 bit
+
+Long int.                            8 byte/64 bit
+
+Long long int.                       16 byte/128 bit
+
+
+
+Range :-
+
+Signed.                                   Unsigned.
+%hd or %hi.                               %hu
+(2¹⁶-¹ to  2¹⁶ - 1).                    (0 to  2¹⁶ -1)
+
+%d. Or   %i.                               %u
+
+%Ld or %Li.                                %Lu
+
+%LLd or %LLi.                             %LLu
