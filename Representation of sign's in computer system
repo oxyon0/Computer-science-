@@ -1,0 +1,33 @@
+types of sign representation :-
+∆ sign magnitude 
+∆ 1's complement
+∆ 2's complement
+
+∆ SIGN MAGNITUDE...
+ +Ve and -Ve
+
+∆ 1's COMPLEMENT....
+
+ If the no. Is +ve so no change or add zero in front...
+Eg:-
+      +5 :-0 0101
+
+ If the no. Is -ve.. +1 will be added infront of the no.
+ Eg:-
+      -5 :- +1 0101
+
+Now, +ve :- 0 0101 
+               ↓ (invert the sign)
+            1 1010  ,here is the -5....
+ 
+  ∆ 2'S COMPLEMENT....
+
+Same as 1's complement but have to addition of +1..
+  For example :- 
+    -5 & +5 
++ve :- 0 0101 and -ve :- 1 0101
+          After flipping :-
+           1 1010
+               +1
+            11011 is the 2's complement 
+
