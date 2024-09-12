@@ -1,0 +1,9 @@
+for octadecimal base(8)
+example :- 
+@ Convert octal 4712 to binary:
+
+4 = 0100
+7 = 0111
+1 = 0001
+2 = 0010
+0100 0111 0001 0010 is the answer..
