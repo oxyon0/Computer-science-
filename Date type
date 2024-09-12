@@ -1,12 +1,12 @@
-Number.                                 Size
+Number.                             Size
 
-Short int.                           2 byte/16 bit 
+Short int.                      2 byte/16 bit 
 
-Int .                                4 byte/32 bit
+Int .                           4 byte/32 bit
 
-Long int.                            8 byte/64 bit
+Long int.                       8 byte/64 bit
 
-Long long int.                       16 byte/128 bit
+Long long int.                 16 byte/128 bit
 
 
 
